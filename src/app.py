@@ -37,11 +37,6 @@ with st.sidebar:
     It uses web references from top ranking articles to generate your blog post. 
     It also allows you to specify a number of web links to use. 
     It only allows a maximum of 10.
-
-    This agent is a work in progress and you can contribute to it on [Github](https://github.com/jordan-jakisa/blog_post_writer) 
-    with your feedback and suggestions.
-
-    Made with ❤️ from Uganda by [jordan-jakisa](https://github.com/jordan-jakisa)
     """
 
     st.divider()
@@ -60,9 +55,6 @@ with st.sidebar:
 
     #### How do I get an OpenAI API key?
     You can get an OpenAI API key by signing up at [OpenAI](https://platform.openai.com/account/api-keys).
-
-    #### How do I contribute to the project?
-    You can contribute to the project on [Github](https://github.com/jordan-jakisa/blog_post_writer)
 
     """
 
